@@ -1,0 +1,42 @@
+.weather-container{
+    width: 20rem;
+    height: 20rem;
+    align-items: center;
+    background-color: beige;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 20px;
+    font-family: cursive;
+    
+    
+
+}
+html{
+    background-color: rgb(131, 101, 192);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.container{
+    align-items: center;
+    padding-left: 45%;
+    
+    
+    
+}
+button{
+    font-size: larger;
+    border-radius: 10px;
+    width: 9rem;
+    
+}
+input{
+    border-radius: 1rem;
+    height: 2rem;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 15px;
+    
+}
